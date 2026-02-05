@@ -1,0 +1,19 @@
+{
+    "emp_details":[
+        {
+            "emp_name":"John Paul",
+            "email":"johnpaul@hotmal.com",
+            "job_profile":"team_lead"
+        },
+        {
+            "emp_name":"smith john",
+            "email":"sjon@hotmail.com",
+            "job_profile":"Architect"
+        },
+        {
+            "emp_name":"catherine trump",
+            "email":"cjons@hotmail.com",
+            "job_profile":"project associate"
+        }
+    ]
+}
