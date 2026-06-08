@@ -1,0 +1,80 @@
+# MCA Semester 2 Repository
+
+This repository contains lab assignments, projects, and practice files for MCA Semester 2 coursework.
+
+## Folder Structure
+
+### C++_LAB
+Contains C++ programming lab assignments and practice programs.
+- Basic programs for input/output, arithmetic operations, etc.
+
+### CC
+Computer Graphics related files and assignments.
+
+### CC_lab
+Lab assignments for Computer Graphics course.
+
+### Cisco lab
+Networking labs using Cisco Packet Tracer (.pkt files).
+- Practice scenarios for network configuration and simulation.
+
+### CN
+Computer Networks related materials and assignments.
+
+### CSS
+Cascading Style Sheets files and web development assignments.
+
+### DSA_lab
+Data Structures and Algorithms lab assignments in Java.
+- Implementations of stacks, queues, linked lists, postfix evaluation, etc.
+
+### GDG_workshop
+Files from GDG (Google Developer Groups) workshop.
+- Python scripts for AI/machine learning workshops.
+
+### ML
+Machine Learning course materials.
+
+### ML_lab
+Machine Learning lab assignments in Python.
+- Data analysis, visualization, model training using libraries like pandas, matplotlib, scikit-learn.
+
+### NLP
+Natural Language Processing course materials.
+
+### NLP lab
+NLP lab assignments.
+- Text processing, tokenization, sentiment analysis, entity recognition using Python and Jupyter notebooks.
+
+### OT
+Operational Technology related files.
+
+### spanish
+Spanish language learning materials or assignments.
+
+### Other Files
+- README.md: This file
+- dr.exe: Possibly a compiled executable from one of the labs
+
+## Getting Started
+
+Each folder contains specific assignments for the respective subjects. Refer to your course syllabus for detailed requirements.
+
+For C++ and Java programs, compile and run using appropriate compilers (g++ for C++, javac for Java).
+
+For Python scripts, use Python 3.x with required libraries installed via pip.
+
+For Packet Tracer files, open with Cisco Packet Tracer software.
+
+## Prerequisites
+
+- C++ Compiler (e.g., g++)
+- Java JDK
+- Python 3.x
+- Cisco Packet Tracer
+- Jupyter Notebook for .ipynb files
+- Required Python libraries: numpy, pandas, matplotlib, scikit-learn, etc.
+
+## Author
+
+MCA Student - Amit y
